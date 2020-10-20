@@ -8,15 +8,15 @@ body{
 	height:660px;
 }
 .left-top{
-      width:48.999%;
+      width:47.99%;
       height:700px;
       background-color:#000000;
       color:#FFFFFF;
       font-family:"Segoe UI",Arial,sans-serif;
       text-align:center;
       font-size:36px;
-      margin-left:20px;
-      padding-top:4%;
+      margin-left:25px;
+      padding-top:3%;
       float:left;
 }
 
@@ -58,21 +58,21 @@ body{
           color:#FFFFFF;
 }
 .right-top{
-      width:47.9999%;
+      width:48.3%;
       height:700px;
       background-color:#607d8b;
       color:#FFFFFF;
       font-family:"Segoe UI",Arial,sans-serif;
       text-align:center;
       font-size:36px;
-      margin-right:20px;
+      margin-right:25px;
       float:right;
-      padding-top:4%;
+      padding-top:3%;
 }
 
 .image{
       width:50%;
-      margin-top: 16px;
+      margin-top:1%px;
       margin-right: 16px;
       margin-bottom: 16px;
       margin-left: 16px;
@@ -99,9 +99,9 @@ body{
 }
 .left-mid{
       float:left;
-      width:48.99%;
+      width:47.99%;
       background-color:#F1F1F1;
-      margin-left:20px;
+      margin-left:25px;
       height:800px;
 }
 .work{
@@ -171,13 +171,13 @@ body{
      line-height: 1.5;
 }
 .right-mid{
-         width: 47.99999%;
+         width:48.3%;
          height:748px;
          color: #ffffff;
          background-color: #3f51b5;
          text-align:center;
          font-size:26px;
-         margin-right:20px;
+         margin-right:25px;
          float:right;
          padding-top:4%;
          font-family: Verdana,sans-serif;
@@ -252,9 +252,9 @@ body{
 }
 .left-bottom{
         float:left;
-        width:48.99%;
+        width:47.99%;
         background-color:#616161;
-        margin-left:20px;
+        margin-left:25px;
         height:700px;
 }
 .swing{
@@ -284,11 +284,11 @@ body{
      line-height:1.5;
 }
 .right-bottom{
-          width: 47.99999%;
+          width:48.3%;
           height:698px;
          background-color:#009688;
          text-align:center;
-         margin-right:20px;
+         margin-right:25px;
          float:right;
          font-family: Verdana,sans-serif;
 }
@@ -384,27 +384,30 @@ body{
         color:black;
 }
 .container-5{
-          width:98.99%;
-          height:100px;
-          margin-top:14.4%;
+          width:98.3%;
+          height:80px;
+          margin-top:13.0%;
+          margin-left:6px;
+          margin-right:auto;
+
 
 }
 .foot{
-    width:98.1%;
-    height:100px;
+    width:97.9999%;
+    height:90px;
     font-size:15px;
     background-color:black;
     color:white;
     float:left;
-    margin-left:18.8px;
+    margin-left:19.0px;
 }
 .end{
   text-decoration:underline;
   cursor:pointer;
 }
 .css{
-    margin-left:20px;
-    margin-top:50px;
+    margin-left:15px;
+    margin-top:30px;
 }
 
 
